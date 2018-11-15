@@ -1,9 +1,3 @@
-//var config = {
-//    apiKey: "AIzaSyAudCp_UEAC-lt-_Aqiyys5O3FnzLUySqA",
-//    authDomain: "vuefiredo-9a9b5.firebaseapp.com",
-//    databaseURL: "https://vuefiredo-9a9b5.firebaseio.com",
-//    storageBucket: "vuefiredo-9a9b5.appspot.com",
-//};
 var config = {
   apiKey: "AIzaSyCffH01ClElRZMvXo5EcZxlULodWGPuWLg",
   authDomain: "tareasft-10d6a.firebaseapp.com",
